@@ -5,7 +5,6 @@ import SearchIcon from '@mui/icons-material/Search';
 function Header() {
   return (
     <div className='header'>
-        <h1>Header</h1>
 
         <div className='header__left'>
             <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png' alt='' />
@@ -17,7 +16,7 @@ function Header() {
         </div>
 
         <div className='header__right'>
-
+            
         </div>
     </div>
   )
