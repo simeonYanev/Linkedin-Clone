@@ -10,17 +10,16 @@
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 
 ## Overview
 
 ### The challenge
 
-Users should be able to:
-
-- View the optimal layout depending on their device's screen size
-- See hover and focus states for interactive elements
+- Create a similar design to the original LinkedIn website
+- Build a Log In and Log out Authentication Flow with Google Authentication
+- Create Profile Database with Firestore
+- Deploy Web Application with Firebase Hosting
 
 ### Links
 
@@ -32,12 +31,9 @@ Users should be able to:
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,css,redux,firebase" />
+    <img src="https://skillicons.dev/icons?i=react,css,redux,firebase,mui" />
   </a>
 </p>
-
-### What I learned
-
 
 ## Author
 
